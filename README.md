@@ -97,6 +97,6 @@ This system introduces:
 - Token-based queue system  
 - ETA prediction logic  
 - Digital Health ID mapping  
-- Centralized NoSQL data model  
+- Centralized NoSQL data model.
 
 ---
